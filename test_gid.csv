@@ -1,0 +1,14 @@
+,,,,,,
+,Effective Delay Index (EDI) — Composite Delay Burden Metric,,,,,
+,EDI = (Congestion% × Hours Lost Year) / 100. Higher EDI = greater delay burden. Source: TomTom 2024-2025.,,,,,
+,City,Year,Congestion Level (%),Annual Hours Lost,EDI Score (computed),Source / Formula
+,Bengaluru,2025,74.4,168,125,TomTom 2025: 74.4% congestion × 168 hrs / 100
+,Pune,2025,71.1,152,108.1,TomTom 2025: 71.1% congestion × 152 hrs / 100
+,Mumbai,2025,63.2,126,79.6,TomTom 2025: 63.2% congestion × 126 hrs / 100
+,Kolkata,2024,58.9,150,88.4,TomTom 2024: 58.9% congestion × 150 hrs / 100
+,Bengaluru,2024,72.7,145,105.4,TomTom 2024: 72.7% congestion × ~145 hrs / 100
+,Mumbai,2024,66.5,130,86.5,TomTom 2024: 66.5% congestion × ~130 hrs / 100
+,New Delhi,2025,60.2,115,69.2,TomTom 2025: 60.2% congestion × ~115 hrs / 100
+,Chennai,2025,58.6,110,64.5,TomTom 2025: 58.6% congestion × ~110 hrs / 100
+,Bengaluru,2019,71,140,99.4,TomTom 2019: 71% congestion × ~140 hrs / 100
+,Mumbai,2019,65,135,87.8,TomTom 2019: 65% congestion × ~135 hrs / 100
